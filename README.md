@@ -8,7 +8,7 @@ This is a guide for anyone who needs to share data with a statistician. The targ
 * Junior statistics students whose job it is to collate/clean data sets
 
 The goals of this guide are to provide some instruction on the best way to share data to avoid the most common pitfalls
-and sources of delay in the transition from data collection to data analysis. The [Leek group](http://biostat.jhsph.edu/~jleek/) works with a large
+and sources of delay in the transition from data collection to  data analysis. The [Leek group](http://biostat.jhsph.edu/~jleek/) works with a large
 number of collaborators and the number one source of variation in the speed to results is the status of the data
 when they arrive at the Leek group. Based on my conversations with other statisticians this is true nearly universally.
 
